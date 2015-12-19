@@ -15,8 +15,8 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         ALogger.d("notice", "AwesomeLogger is available!");
-        JSONObject obj = new JSONObject();
         try {
+            JSONObject obj = new JSONObject();
             obj.put("name", "Lei Zhang");
             obj.put("email","fkingu007@gmail.com");
             obj.put("github","tracyzhanglei");
