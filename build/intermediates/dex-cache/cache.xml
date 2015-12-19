@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/tracy/ws_jd/ALogger/sample/build/intermediates/exploded-aar/ALogger/AwesomeLogger/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="dd6372c55c99e8c19283b5b6bab60e6dffb8ab11">
+        <dex dex="/Users/tracy/ws_jd/ALogger/sample/build/intermediates/pre-dexed/debug/classes-982ce742af243e80728a2b85153d6d0962c6940e.jar" />
+    </item>
+
+</items>
