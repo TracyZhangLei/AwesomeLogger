@@ -6,6 +6,12 @@ compile 'cc.tracyzhang:AwesomeLogger:1.0.0'
 
 ####用法：
 
+firstly,use soft wraps in logcat to make sure the log shown in one line,like that:
+
+![use soft wraps](https://github.com/TracyZhangLei/AwesomeLogger/blob/master/use_soft_wraps.png)
+
+then:
+
 * ALogger.d(tag,obj)
 * ALogger.i(tag,obj) 
 * ALogger.w(tag,obj) 
